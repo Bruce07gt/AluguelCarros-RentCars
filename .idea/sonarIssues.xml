@@ -33,6 +33,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/model/services/TaxService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
